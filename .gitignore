@@ -1,0 +1,17 @@
+# PlatformIO build & library cache
+.pio/
+**/.pio/
+
+# VS Code local configs
+.vscode/
+**/.vscode/
+
+# Compiled Go binaries
+morze_decoder_server/morse-server
+*.exe
+*.out
+
+# OS & temporary files
+.DS_Store
+*~
+*.swp
